@@ -21,7 +21,7 @@ A clean, responsive, and elegant personal portfolio template to showcase your sk
 
 | Home Page | Projects Section |
 |-----------|------------------|
-| ![Preview1](assets/examples/example1.png) | ![Preview2](assets/examples/example2.png) |
+| ![Preview1](examples/example1.png) | ![Preview2](examples/example2.png) |
 
 ---
 
