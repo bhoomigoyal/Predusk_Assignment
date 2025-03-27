@@ -6,7 +6,13 @@ const cors = require("cors");
 
 const app = express();
 
-app.use(cors());
+app.use(
+  cors({
+    origin: 'https://predusk-assignment-frontend.onrender.com', // Update this to your frontend URL
+    methods: ['GET', 'POST'],
+    allowedHeaders: ['Content-Type'],
+  })
+);
 app.use(bodyParser.json());
 
 // Replace with your actual Groq API key
