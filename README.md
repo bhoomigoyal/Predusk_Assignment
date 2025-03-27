@@ -50,11 +50,11 @@ The project includes example images, which can be found in the following directo
 
 ### Example 1:
 
-![Example Image 1](examples/example1/png/image1.png)
+![Example Image 1](examples/example1.png)
 
 ### Example 2:
 
-![Example Image 2](examples/example2/png/image2.png)
+![Example Image 2](examples/example2.png)
 
 These images are used to demonstrate the functionality of the application.
 
