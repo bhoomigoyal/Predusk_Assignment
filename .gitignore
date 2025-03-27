@@ -1,0 +1,18 @@
+# Ignore node_modules from both root and server directory
+/node_modules/
+/server/node_modules/
+
+# Optional - Ignore logs
+*.log
+
+# Optional - Ignore OS and editor-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional - Ignore build or temp files
+dist/
+build/
+temp/
+.env
