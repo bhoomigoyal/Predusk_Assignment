@@ -1,4 +1,4 @@
-# Bhoomi Goyal's Predusk Assignment
+# Bhoomi Goyal Predusk Assignment
 
 This is the repository for the Predusk Assignment. It contains both the frontend and backend code, along with an example of how to deploy and run the project locally.
 
